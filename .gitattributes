@@ -1,0 +1,2 @@
+include/setup.h merge=ours
+platformio.h merge=ours
